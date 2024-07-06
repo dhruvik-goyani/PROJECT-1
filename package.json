@@ -1,0 +1,11 @@
+{
+  "name": "project-1",
+  "version": "1.0.0",
+  "description": "This is for only testing purpose here!",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.ts"
+  },
+  "author": "Dhruvik <dhruvikgoyani@gmail.com>",
+  "license": "ISC"
+}
